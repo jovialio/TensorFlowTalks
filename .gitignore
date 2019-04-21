@@ -1,3 +1,5 @@
+# Folders to ignore
 .dropbox
 /Talk6/logs/
-Icon?
+Talk03_8xSuperResolution/weights/
+Talk02_generative_models/generated_numbers/
